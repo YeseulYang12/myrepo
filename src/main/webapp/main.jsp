@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< master
 	<h2>제목</h2>
 	<h3>제목3</h3>
 
@@ -14,5 +15,8 @@
 	<h4>h4</h4>
 	<h5>제목5</h5>
 
+=======
+
+>>>>>>> 9d43d7f 제목2
 </body>
 </html>
